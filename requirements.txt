@@ -4,4 +4,5 @@ pandas
 pydeck
 streamlit
 Pillow
+networkx
 streamlit-image-select
